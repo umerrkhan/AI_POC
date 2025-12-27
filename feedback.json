@@ -1,0 +1,14 @@
+{
+  "customer_feedbacks": [
+    {
+      "loginid": "umerrkhan",
+      "rating": "1",
+      "feedback": "I really tried to like Masterclass but I dont like the way of course structure. A Management course should not be designed like this. Please refund me"
+    },
+    {
+      "loginid": "umerrkhan1",
+      "rating": "5",
+      "feedback": "I really like the Masterclass. I will definitely recommend this to others so they can benefit"
+    }
+  ]
+}
